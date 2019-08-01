@@ -20,9 +20,8 @@
   },
   "homepage": "https://github.com/yaakovazat/antdesign#readme",
   "devDependencies": {
-    "umi": "^2.8.16"
-  },
-  "dependencies": {
+    "umi": "^2.8.16",
     "umi-plugin-react": "^1.9.14"
-  }
+  },
+  "dependencies": {}
 }
