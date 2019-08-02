@@ -23,5 +23,7 @@
     "umi": "^2.8.16",
     "umi-plugin-react": "^1.9.14"
   },
-  "dependencies": {}
+  "dependencies": {
+    "antd": "^3.20.7"
+  }
 }
