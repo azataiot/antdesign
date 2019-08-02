@@ -36,7 +36,7 @@ export default class BasicLayout extends Component {
               {this.props.children}
             </div>
           </Content>
-          <Footer style={{ textAlign: 'center' }}>Ant Design ©2018 Created by Ant UED</Footer>
+          <Footer style={{ textAlign: 'center' }}>AzatAI ©2019 [Azat Artificial Intelligence LLP.]</Footer>
         </Layout>
       </Layout>
     )
